@@ -1,4 +1,23 @@
 # SoftwareEngineeringLab
+## گزارش کار
+در این آزمایش، یک صفحه HTML static برای نمایش رزومه طراحی شده است. ابتدا شاخه main در تنظیمات protected شده است تا فقط با pull request بتوان به آن دسترسی پیدا کرد. در شاخه dev، پیاده‌سازی صفحات وب انجام شده است. پس از بررسی نسخه اولیه dev، با مشکل اشتباه اسمی یکی از تب‌ها مواجه شدیم که در شاخه debug آن را رفع کردیم. در شاخه feature، اطلاعات تماس به عنوان feature رزومه اضافه شده است. اما به دلیل همزمانی تغییرات در شاخه debug، به دو conflict برخوردیم که هنگام pull request آنها را برطرف کردیم. تلاش شد از تمامی دستورات ذکرشده در 
+![Screenshot 2024-03-08 113722](https://github.com/SadeghMahmoudabadi/SoftwareEngineeringLab/assets/59364741/ab2d0fc8-d166-43d1-a200-eefbb3420330)
+<img width="682" alt="Screenshot 2024-03-08 at 7 14 50 PM" src="https://github.com/SadeghMahmoudabadi/SoftwareEngineeringLab/assets/59364741/497199f2-baed-48d9-b819-d7249557ac86">
+<img width="682" alt="Screenshot 2024-03-08 at 7 17 39 PM" src="https://github.com/SadeghMahmoudabadi/SoftwareEngineeringLab/assets/59364741/4e72d91b-77c6-49d3-893a-67d39e68cd52">
+<img width="682" alt="Screenshot 2024-03-08 at 7 19 39 PM" src="https://github.com/SadeghMahmoudabadi/SoftwareEngineeringLab/assets/59364741/5db63ee0-0689-4b4a-8a6b-0deb4dca4fa4">
+![photo_2024-03-08_20-27-53](https://github.com/SadeghMahmoudabadi/SoftwareEngineeringLab/assets/59364741/682c7ff3-8e74-4746-8fe4-2e206eb2ae4d)
+![photo_2024-03-08_20-27-43](https://github.com/SadeghMahmoudabadi/SoftwareEngineeringLab/assets/59364741/6cd774a1-793f-49e5-a74a-d429a090a5ac)
+<img width="682" alt="Screenshot 2024-03-08 at 7 21 55 PM" src="https://github.com/SadeghMahmoudabadi/SoftwareEngineeringLab/assets/59364741/ecc6059c-e95c-4cd1-85b6-ca90fea1a2b5">
+![Screenshot 2024-03-08 193055](https://github.com/SadeghMahmoudabadi/SoftwareEngineeringLab/assets/59364741/34da5f80-3e15-48d3-b6eb-4c0cbc2acc87)
+![Screenshot 2024-03-08 193119](https://github.com/SadeghMahmoudabadi/SoftwareEngineeringLab/assets/59364741/8edee8f8-aca9-4a09-a6c3-e8721438e642)
+![Screenshot 2024-03-08 193315](https://github.com/SadeghMahmoudabadi/SoftwareEngineeringLab/assets/59364741/fc88d1a6-31af-49af-9506-4a7fe3c7a950)
+<img width="822" alt="Screenshot 2024-03-08 at 7 50 01 PM" src="https://github.com/SadeghMahmoudabadi/SoftwareEngineeringLab/assets/59364741/0f0eee00-2a2a-428b-bae9-907493a5eaf1">
+<img width="682" alt="Screenshot 2024-03-08 at 12 19 04 PM" src="https://github.com/SadeghMahmoudabadi/SoftwareEngineeringLab/assets/59364741/783db1fc-c29f-45c6-bf97-815373f86c21">
+<img width="682" alt="Screenshot 2024-03-08 at 12 19 40 PM" src="https://github.com/SadeghMahmoudabadi/SoftwareEngineeringLab/assets/59364741/31697f07-7403-483b-9dee-327676734019">
+<img width="934" alt="Screenshot 2024-03-08 at 12 21 21 PM" src="https://github.com/SadeghMahmoudabadi/SoftwareEngineeringLab/assets/59364741/c1fe0149-6d2c-4cd9-95f9-bc5a0fb99bac">
+
+
+
 ## پرسش‌ها
 ### پرسش ۱
 پوشه .git مرکز یک repository گیت‌هاب است. این پوشه برای نگهداری اطلاعات مدیریت نسخ پروژه استفاده می‌شود؛ شامل تاریخچه commitها، اطلاعات شاخه‌ها، حزئیات repository، تغییرات فایل‌ها و ....
